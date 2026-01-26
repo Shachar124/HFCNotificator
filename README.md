@@ -6,7 +6,7 @@
 > This bot is unofficial! The public instance may experience downtimes, and there may be issue with the code. Please do not rely on it alone!
 
 > [!NOTE]\
-> Due to the escalating situation with Iran, the public instance has been re-activated.
+> It seems to finally be quiet. The public instance has been turned off for now, and hopefully for good.
 
 # Table of Contents
 - [What is this?](#what-is-this)
